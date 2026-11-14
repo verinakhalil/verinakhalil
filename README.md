@@ -117,5 +117,5 @@ I am an **Applied AI & Machine Learning Engineer** with a solid foundation in Me
 ## 📬 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/verina-fouad](https://linkedin.com/in/verina-fouad)
 - 📧 **Email:** [verinafouad1234@gmail.com](mailto:verinafouad1234@gmail.com)
-- 🌍 **Portfolio / Demos:** [verinakhalil.github.io/NileGuard](https://verinakhalil.github.io/NileGuard)
+
 
