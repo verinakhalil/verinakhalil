@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=verinakhalil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://linkedin.com/in/verina-fouad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:verinafouad1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://verinakhalil.github.io/NileGuard"><img src="https://img.shields.io/badge/Live%20Demo-NileGuard-brightgreen?style=flat&logo=leaflet" alt="Live Demo" /></a>
+  <a href="https://verinakhalil.github.io/NileGuard"><img src="https://img.shields.io/badge/🚀%20Live%20Platform-NileGuard%20GIS-success?style=flat&logo=leaflet&logoColor=white" alt="Live Demo" /></a>
 </p>
 
 ### 🚀 Applied AI & Machine Learning Engineer | GeoAI & Remote Sensing | Cloud Data
@@ -65,7 +65,7 @@ I am an **Applied AI & Machine Learning Engineer** with a solid foundation in Me
 
 ## 🌟 Featured Projects & Contributions
 
-### 🛰️ 1. SpaceEye: Satellite Earth Observation & Urban Governance (ACUD R7)
+### 🛰️ 1. [SpaceEye: Satellite Earth Observation & Urban Governance (ACUD R7)](https://github.com/verinakhalil/spaceeye-geoai)
 > **Role:** Lead AI Engineer & Core Contributor · **Domain:** GeoAI / Smart Sustainable Cities
 * **Architecture:** Developed an intelligent satellite decision-support system for the **Administrative Capital for Urban Development (ACUD)** to monitor 180+ developer project lifecycles across the R7 district.
 * **Key Innovations:**
